@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-scikit-learn
-ucimlrepo
-matplotlib
-joblib
+streamlit>=1.40,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn==1.6.1
+ucimlrepo==0.0.7
+matplotlib>=3.8,<4
+joblib>=1.4,<2
